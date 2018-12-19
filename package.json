@@ -1,0 +1,23 @@
+{
+  "name": "react-components",
+  "version": "1.0.0",
+  "description": "react 组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xinlvying/react-components.git"
+  },
+  "keywords": [
+    "react",
+    "组件"
+  ],
+  "author": "xin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xinlvying/react-components/issues"
+  },
+  "homepage": "https://github.com/xinlvying/react-components#readme"
+}
